@@ -4,6 +4,9 @@
 
 This project focuses on cleaning, preprocessing, analyzing, and reporting customer data using Python and Power BI. The dataset contains missing values, duplicate records, and inconsistent entries that are cleaned to improve data quality and generate meaningful insights.
 
+<img width="1147" height="656" alt="Dashboard" src="https://github.com/user-attachments/assets/7822b7a5-d727-471d-a1a6-209bdd4c55f3" />
+
+
 ## Objectives
 
 - Handle missing values
